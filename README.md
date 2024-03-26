@@ -4,19 +4,20 @@
 
 1. **Yahtzee Game:**
    - **Description:** Implementation of the classic dice game Yahtzee.
-   - **File:** yahtzee.py
+   - **File:** 
 
 2. **Markov Chain:**
    - **Description:** Implementation of a Markov Chain for text generation.
-   - **File:** markov_chain.py
+   - **File:** 
 
 3. **Odometer Problem:**
    - **Description:** Solving the odometer problem using genai
-   - **File:**
+   - **File:** 
    - 
 5. **Card Game:**
    - **Description:** Implementation of a bidding card game.
-   - **File:** card_game.py
+   - **Latex File:** diamonds_card_game.pdf
+   - **Python Code** diamonds_card_game.py
 
 ## Additional Content:
 
