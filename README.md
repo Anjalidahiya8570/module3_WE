@@ -8,7 +8,7 @@
 
 2. **Markov Chain:**
    - **Description:** Implementation of a Markov Chain for text generation.
-   - **File:** 
+   - **File:** markov_chains.py
 
 3. **Odometer Problem:**
    - **Description:** Solving the odometer problem using genai
