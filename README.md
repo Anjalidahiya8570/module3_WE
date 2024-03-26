@@ -12,7 +12,7 @@
 
 3. **Odometer Problem:**
    - **Description:** Solving the odometer problem using genai
-   - **File:** 
+   - **File:** odometer.py
    - 
 5. **Card Game:**
    - **Description:** Implementation of a bidding card game.
